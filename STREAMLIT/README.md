@@ -96,7 +96,7 @@ STREAMLIT/
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/your-username/stock-market-analysis-dashboard.git
+git clone https://github.com/israelmurimiro/stock-market-analysis-dashboard.git
 cd stock-market-analysis-dashboard/STREAMLIT
 ```
 
@@ -118,7 +118,7 @@ streamlit run app.py
 
 This dashboard is deployed on **Streamlit Community Cloud**:
 
-[**Live Demo**]([https://your-app-name.streamlit.app](https://israelmurimiro-stock-market-analysis-dashbo-streamlitapp-gvsrru.streamlit.app/))
+[**Live Demo**](https://israelmurimiro-stock-market-analysis-dashbo-streamlitapp-gvsrru.streamlit.app/stock)
 
 ### Deploy your own:
 
@@ -179,6 +179,14 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ---
 
+## 📧 Contact
+
+**Israel Murimiro**  
+GitHub: [israelmurimiro](https://github.com/israelmurimiro)  
+Email: [israelmurimiro@gmail.com](mailto:israelmurimiro@gmail.com)
+
+---
+
 ## 🙏 Acknowledgements
 
 - Streamlit for the amazing framework
@@ -190,3 +198,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ⭐ **If you found this project useful, please give it a star on GitHub!** ⭐
 ```
+
+---
